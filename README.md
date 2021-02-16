@@ -24,7 +24,7 @@ But in case you find yourself saddled with creating a template you know your ana
 
 Log in as the admin:
 
-img src = "/theHive-Custom-Templates/blob/main/images/1_signin.png"
+![Alt text]https://github.com/3v3rp3ss/theHive-Custom-Templates/blob/main/images/1_signin.png?raw=true
 
 On the top right, click on “Admin” and drop down will appear. Choose “Case custom fields”.
  
