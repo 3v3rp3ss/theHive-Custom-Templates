@@ -23,7 +23,8 @@ You state the things you want in your custom case template, theHive Admin agrees
 But in case you find yourself saddled with creating a template you know your analysts will need but no one created (and you have those theHive Admin creds), here is how you do it:
 
 Log in as the admin:
-https://github.com/33v3rp3ss/theHive-Custom-Templates/blob/images/main/1_signin.png 
+
+https://github.com/3v3rp3ss/theHive-Custom-Templates/blob/main/images/1_signin.png
 
 On the top right, click on “Admin” and drop down will appear. Choose “Case custom fields”.
  
